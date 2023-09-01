@@ -4,5 +4,5 @@
 
 It is a project under development, the next update will be with vue pages
 
-## About Project
+## Structure
 - [Database diagram](https://raw.githack.com/yahia-sayed/school/main/School_DB_Diagram.html).
